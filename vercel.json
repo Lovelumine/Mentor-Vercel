@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)", 
-      "dest": "http://223.82.75.77:5173/$1" 
+      "dest": "http://lumoxuan.cn/$1" 
     }
   ]
 }
